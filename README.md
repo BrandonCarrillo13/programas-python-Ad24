@@ -16,3 +16,11 @@
 - p07-finciones-trigonometricas
 - p07b-funciones-del-modulo-math
 - p08-dividir-en-cifras 
+
+## Actividad 4
+- p09-hipotenusa-de-triangulo
+- p10-tercer-angulo
+- p11-convertir-temperatura
+- p12-volumen-cilindrico
+- p13-calculo-tiempo
+- p14-numero-suerte
