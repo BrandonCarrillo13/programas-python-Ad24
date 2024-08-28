@@ -24,3 +24,11 @@
 - p12-volumen-cilindrico
 - p13-calculo-tiempo
 - p14-numero-suerte
+
+## Actividad 5
+- p15-verificar-numero
+- p16-verificar-suma
+- p17-convertir-temperaturas
+- p17-convertir-temperaturas-v2
+- p18-paga-trabajador
+

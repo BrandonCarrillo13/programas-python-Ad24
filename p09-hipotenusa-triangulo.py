@@ -4,7 +4,7 @@
 import math
 
 def calcular_hipotenusa(lado1, lado2):
-    # Calcula la hipotenusa usando la fórmula dada
+    # Se Calcula la hipotenusa usando la fórmula dada
     hipotenusa = math.sqrt(lado1 * lado1 + lado2 * lado2)
     return hipotenusa
 
@@ -18,7 +18,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
+
 
     
 
