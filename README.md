@@ -36,5 +36,6 @@
 - p19-verifica-suma
 - p20-ley-de-newton
 - p21-aceptar-estudiante
+- p21-aceptar-estudianteV2
 - p22-tipo-angulo
 
