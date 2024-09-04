@@ -39,7 +39,7 @@
 - p21-aceptar-estudianteV2
 - p22-tipo-angulo
 
-## Actividad 7
+## Tarea 2
 - p23-numeros-consecutivos
 - p24-numero-mayor
 - p25-dia-de-la-semana
