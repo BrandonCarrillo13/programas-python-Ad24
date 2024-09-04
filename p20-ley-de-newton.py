@@ -26,3 +26,4 @@ elif op == 'c':
     print(f'La aceleración es {a} m/s^2')
 else:
     print('Opción inválida!')
+

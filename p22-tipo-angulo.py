@@ -22,3 +22,4 @@ if angulo>0 and angulo <=360:
         print("Cerrado o completo")
 else:
     print("\nEl angulo esta fuera de rango")
+    

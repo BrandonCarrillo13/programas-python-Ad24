@@ -17,3 +17,4 @@ if edad >=18 :
     else:
         print("\nSolo aceptamos con cal mayores o iguales de 8")
     print("\nGracias por utilizar este prog")
+

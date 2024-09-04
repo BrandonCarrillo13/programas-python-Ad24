@@ -19,3 +19,4 @@ else:
         print(f"{nombre} bienbenido a la universidad, tu edad {edad} y tus calificaciones {c1}, {c2} lo permiten ")
 
     print("\nGracias por utilizar este prog")
+
