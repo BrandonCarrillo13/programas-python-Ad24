@@ -26,3 +26,4 @@ print(f"\nHoras extra: {hextra}, paga normal: {paganormal:.2f}, paga extra: {pag
 print(f"\nPaga bruta: {pagabruta:.2f}")
 print(f"\nImpuesto: {impuesto:.2f}")
 print(f"\nPaga neta: {paganeta:.2f}")
+

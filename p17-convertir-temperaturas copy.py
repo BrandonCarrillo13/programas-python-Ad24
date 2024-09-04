@@ -26,4 +26,5 @@ try:
 except ValueError:
     print("Entrada no válida. Por favor, ingresa un número entero.")
 
+
     
