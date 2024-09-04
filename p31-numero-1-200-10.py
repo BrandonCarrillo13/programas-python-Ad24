@@ -9,3 +9,4 @@ while c <= 200:
     if c % 10 != 0:
         continue
     print("\nCiclo terminado")
+    

@@ -24,3 +24,4 @@ else:
     print(f"Capturaste {c} numeros y su suma es {s}")
     print(f"Positicos: {cp}\nNegativos: {cn}\nCeros: {cc}")
     print("\nProceso terminado")
+    
