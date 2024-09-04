@@ -14,3 +14,4 @@ if numero == 0:
     print("\nEl numero es cero")
 
     print("\nProceso terminado")
+    
