@@ -10,3 +10,4 @@ suma_digitos = sum(int(digito) for digito in anio_nacimiento if digito.isdigit()
 
 print(f"Dígitos individuales del año {anio_nacimiento}: {', '.join(anio_nacimiento)}")
 print(f"El número de la suerte es: {suma_digitos}")
+

@@ -17,7 +17,7 @@
 - p07b-funciones-del-modulo-math
 - p08-dividir-en-cifras 
 
-## Actividad 4
+## Tarea 1
 - p09-hipotenusa-de-triangulo
 - p10-tercer-angulo
 - p11-convertir-temperatura
@@ -32,7 +32,7 @@
 - p17-convertir-temperaturas-v2
 - p18-paga-trabajador
 
-## Actividad 6
+## Actividad 5
 - p19-verifica-suma
 - p20-ley-de-newton
 - p21-aceptar-estudiante
