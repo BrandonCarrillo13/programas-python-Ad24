@@ -30,3 +30,4 @@ if edad>=21 :
 
 else:
     print("no aceptamos menores")
+    
