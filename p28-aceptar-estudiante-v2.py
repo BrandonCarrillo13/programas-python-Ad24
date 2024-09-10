@@ -3,6 +3,7 @@
 
 from re import M
 
+import os; os.system("cls")
 
 print('Universidad Kitty Kat SA')
 
