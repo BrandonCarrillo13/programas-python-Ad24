@@ -113,3 +113,4 @@ while(True):
     print(f"El total de la venta es de: {suma}")
     print("\nProceso terminado...")
     break
+
