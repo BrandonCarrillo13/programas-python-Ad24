@@ -118,4 +118,17 @@
 - p72-nombres-edades
 - p73-listas-aleatorios
 
+## Tarea 5
+- p74-procesar-notas
+- p75-lista-multiplica
+- p76-meses-dia-nombre
+- p77-lista-aleatorios-suma
+- p78-ciudades
+- p79-lista-impares
 
+## Actividad 12
+- p80-estudiante
+- p81-calificaciones
+- p82-nombres y edades
+- p83-conversion-medida
+- p84-conversion-moneda
