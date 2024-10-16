@@ -81,3 +81,4 @@ print(f"Promedio de sueldo: {promedio_sueldo:.2f}")
 print(f"\nEmpleado de mayor edad: {empleado_mayor_edad['nombre']} con {empleado_mayor_edad['edad']} años")
 print(f"Empleado de menor edad: {empleado_menor_edad['nombre']} con {empleado_menor_edad['edad']} años")
 
+
