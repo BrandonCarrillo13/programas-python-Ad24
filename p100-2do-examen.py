@@ -70,6 +70,7 @@ promedio_sueldo = suma_sueldo / total_empleados
 empleado_mayor_edad = max(empleados, key=lambda x: x['edad'])
 empleado_menor_edad = min(empleados, key=lambda x: x['edad'])
 
+
 print("\nResumen")
 print(f"Total de empleados: {total_empleados}")
 print(f"Hombres: {total_hombres}")
