@@ -199,5 +199,12 @@
 - p130-suma-pares-impares
 - p131-suma-digitos-lista
 - p132-calcula-factoriales
-- p133-estadisticas-basicas
+- p13 -estadisticas-basicas
+
+## Actividad 17
+
+- p134-empleado1
+- p135-empleado2
+- p136-circulo
+- p137-rectangulo
 
